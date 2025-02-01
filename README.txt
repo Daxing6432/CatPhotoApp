@@ -1,0 +1,1 @@
+This is a project from course freeCodeCamp. It teaches basics of html.
